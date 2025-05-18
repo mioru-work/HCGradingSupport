@@ -5,7 +5,15 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 
+import jp.haruserver.mc.hcgradingsupport.HCGradingSupport;
+
 public class ItemManager {
+
+	private final HCGradingSupport HCGradingSupport;
+	
+	public ItemManager(HCGradingSupport HCGradingSupport){
+		this.HCGradingSupport = HCGradingSupport;
+	}
 
 	/**
 	 * 引数で指定したマテリアルのアイテムがインベントリ内にいくつあるかチェックします。

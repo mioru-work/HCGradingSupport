@@ -1,0 +1,15 @@
+storage_keys:
+  STONE: hcgs_storage_stone
+  DIRT: hcgs_storage_dirt
+  COBBLESTONE: hcgs_storage_cobblestone
+  SANDSTONE: hcgs_storage_sandstone
+  SAND: hcgs_storage_sand
+  NETHERRACK: hcgs_storage_netherrack
+  GRAVEL: hcgs_storage_gravel
+  GRANITE: hcgs_storage_granite
+  DIORITE: hcgs_storage_diorite
+  CALCITE: hcgs_storage_calcite
+  ANDESITE: hcgs_storage_andesite
+  TUFF: hcgs_storage_tuff
+  DEEPSLATE: hcgs_storage_deepslate
+  COBBLED_DEEPSLATE: hcgs_storage_cobbled_deepslate
